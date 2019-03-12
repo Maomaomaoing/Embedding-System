@@ -1,0 +1,4 @@
+G: GND
+V: VCC(3.3V)
+N: NONE
+S: SIGNAL

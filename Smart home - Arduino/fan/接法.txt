@@ -1,0 +1,4 @@
+Black: GND
+Y: VCC(12V)
+G: SENSOR
+Blue: PWM(D11)
