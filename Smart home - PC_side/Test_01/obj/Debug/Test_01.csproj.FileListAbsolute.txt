@@ -1,0 +1,269 @@
+C:\Users\Smith\AppData\Local\Temporary Projects\Test_01\bin\Debug\Test_01.exe
+C:\Users\Smith\AppData\Local\Temporary Projects\Test_01\bin\Debug\Test_01.pdb
+C:\Users\Smith\AppData\Local\Temporary Projects\Test_01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Smith\AppData\Local\Temporary Projects\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Users\Smith\AppData\Local\Temporary Projects\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Users\Smith\AppData\Local\Temporary Projects\Test_01\obj\Debug\Test_01.csproj.GenerateResource.Cache
+C:\Users\Smith\AppData\Local\Temporary Projects\Test_01\obj\Debug\Test_01.exe
+C:\Users\Smith\AppData\Local\Temporary Projects\Test_01\obj\Debug\Test_01.pdb
+C:\Users\Smith\Documents\Visual Studio 2008\Projects\Test_01\Test_01\obj\Debug\Test_01.exe
+C:\Users\Smith\Documents\Visual Studio 2008\Projects\Test_01\Test_01\obj\Debug\Test_01.pdb
+C:\Users\Smith\Documents\Visual Studio 2008\Projects\Test_01\Test_01\bin\Debug\Test_01.exe
+C:\Users\Smith\Documents\Visual Studio 2008\Projects\Test_01\Test_01\bin\Debug\Test_01.pdb
+C:\Users\Smith\Documents\Visual Studio 2008\Projects\Test_01\Test_01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Smith\Documents\Visual Studio 2008\Projects\Test_01\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Users\Smith\Documents\Visual Studio 2008\Projects\Test_01\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Users\Smith\Documents\Visual Studio 2008\Projects\Test_01\Test_01\obj\Debug\Test_01.csproj.GenerateResource.Cache
+C:\Users\Smith\Documents\Visual Studio 2008\Projects\Test_01\Test_01\obj\Debug\Test_01.Form2.resources
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\obj\Debug\Test_01.exe
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\obj\Debug\Test_01.pdb
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\bin\Debug\Test_01.exe
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\bin\Debug\Test_01.pdb
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\obj\Debug\Test_01.Form2.resources
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\obj\Debug\Test_01.csproj.GenerateResource.Cache
+C:\Users\Smith\Desktop\Test_01\Test_01\obj\Debug\Test_01.exe
+C:\Users\Smith\Desktop\Test_01\Test_01\obj\Debug\Test_01.pdb
+C:\Users\Smith\Desktop\Test_01\Test_01\bin\Debug\Test_01.exe
+C:\Users\Smith\Desktop\Test_01\Test_01\bin\Debug\Test_01.pdb
+C:\Users\Smith\Desktop\Test_01\Test_01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Smith\Desktop\Test_01\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Users\Smith\Desktop\Test_01\Test_01\obj\Debug\Test_01.Form2.resources
+C:\Users\Smith\Desktop\Test_01\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Users\Smith\Desktop\Test_01\Test_01\obj\Debug\Test_01.csproj.GenerateResource.Cache
+C:\Users\Smith\Desktop\Test_01\Test_01\obj\Debug\Test_01.Form3.resources
+C:\Users\Smith\Desktop\Test_01\Test_01\obj\Debug\Test_01.Form4.resources
+C:\Users\Smith\Desktop\Test_01\Test_01\obj\Debug\Test_01.Form5.resources
+C:\Users\Smith\Desktop\Test_01\Test_01\obj\Debug\Test_01.Form6.resources
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\obj\Debug\Test_01.Form3.resources
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\obj\Debug\Test_01.Form4.resources
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\obj\Debug\Test_01.Form5.resources
+C:\Documents and Settings\Administrator\桌面\Test_01\Test_01\obj\Debug\Test_01.Form6.resources
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\obj\Debug\Test_01.exe
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\obj\Debug\Test_01.pdb
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\bin\Debug\Test_01.exe
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\bin\Debug\Test_01.pdb
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\obj\Debug\Test_01.Form2.resources
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\obj\Debug\Test_01.Form3.resources
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\obj\Debug\Test_01.Form4.resources
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\obj\Debug\Test_01.Form5.resources
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\obj\Debug\Test_01.Form6.resources
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Documents and Settings\Smith\桌面\Test_01\Test_01\obj\Debug\Test_01.csproj.GenerateResource.Cache
+G:\01.ZigBee\Test_01\Test_01\obj\Debug\Test_01.exe
+G:\01.ZigBee\Test_01\Test_01\obj\Debug\Test_01.pdb
+C:\Documents and Settings\Smith\桌面\專題\AP_for_門神\Test_01\obj\Debug\Test_01.exe
+C:\Documents and Settings\Smith\桌面\專題\AP_for_門神\Test_01\obj\Debug\Test_01.pdb
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\obj\Debug\Test_01.exe
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\obj\Debug\Test_01.pdb
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\bin\Debug\Test_01.exe
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\bin\Debug\Test_01.pdb
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\obj\Debug\Test_01.Form2.resources
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\obj\Debug\Test_01.Form3.resources
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\obj\Debug\Test_01.Form4.resources
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\obj\Debug\Test_01.Form5.resources
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\obj\Debug\Test_01.Form6.resources
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Documents and Settings\Smith\桌面\專題\AP_for_誠力\Test_01\obj\Debug\Test_01.csproj.GenerateResource.Cache
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\obj\Debug\Test_01.exe
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\obj\Debug\Test_01.pdb
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\bin\Debug\Test_01.exe
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\bin\Debug\Test_01.pdb
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\obj\Debug\Test_01.Form2.resources
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\obj\Debug\Test_01.Form3.resources
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\obj\Debug\Test_01.Form4.resources
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\obj\Debug\Test_01.Form5.resources
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\obj\Debug\Test_01.Form6.resources
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Documents and Settings\Smith\桌面\AP_for_誠力\Test_01\obj\Debug\Test_01.csproj.GenerateResource.Cache
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\Test_01.exe
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\Test_01.pdb
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\bin\Debug\Test_01.exe
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\bin\Debug\Test_01.pdb
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\ResolveAssemblyReference.cache
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\Test_01.Form1.resources
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\Test_01.Form2.resources
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\Test_01.Form3.resources
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\Test_01.Form4.resources
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\Test_01.Form5.resources
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\Test_01.Form6.resources
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\ResGen.read.1.tlog
+D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01\obj\Debug\ResGen.write.1.tlog
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\Test_01.exe
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\Test_01.pdb
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\bin\Debug\Test_01.exe
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\bin\Debug\Test_01.pdb
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\ResolveAssemblyReference.cache
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\Test_01.Form1.resources
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\Test_01.Form2.resources
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\Test_01.Form3.resources
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\Test_01.Form4.resources
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\Test_01.Form5.resources
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\Test_01.Form6.resources
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\ResGen.read.1.tlog
+D:\Zigbee\Release\API\110523 (Ver 2.2)\Test_01\obj\Debug\ResGen.write.1.tlog
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\Test_01.exe
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\Test_01.pdb
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\bin\Debug\Test_01.exe
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\bin\Debug\Test_01.pdb
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\ResolveAssemblyReference.cache
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\Test_01.Form1.resources
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\Test_01.Form2.resources
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\Test_01.Form3.resources
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\Test_01.Form4.resources
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\Test_01.Form5.resources
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\Test_01.Form6.resources
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\ResGen.read.1.tlog
+D:\Zigbee\Release\API\110722 (Ver 2.3)\Test_01\obj\Debug\ResGen.write.1.tlog
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\bin\Debug\Test_01.exe
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\bin\Debug\Test_01.pdb
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\ResolveAssemblyReference.cache
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.Form1.resources
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.Form10.resources
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.Form2.resources
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.Form3.resources
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.Form4.resources
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.Form5.resources
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.Form6.resources
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.Form7.resources
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.Form8.resources
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.Form9.resources
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\ResGen.read.1.tlog
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\ResGen.write.1.tlog
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.exe
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.pdb
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\bin\Debug\Test_01.exe.manifest
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\bin\Debug\Test_01.application
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.exe.manifest
+D:\Zigbee\Release\API\120503 (Ver 2.4)\Test_01\obj\Debug\Test_01.application
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Form10.resources
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Form2.resources
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Form3.resources
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Form4.resources
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Form5.resources
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Form6.resources
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Form7.resources
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Form8.resources
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Form9.resources
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\bin\Debug\Test_01.exe.manifest
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\bin\Debug\Test_01.application
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\bin\Debug\Test_01.exe
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\bin\Debug\Test_01.pdb
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.TrustInfo.xml
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.exe.manifest
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.application
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.exe
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.pdb
+C:\Users\Administrator\Desktop\120504 (Ver 2.5)\Test_01\obj\Debug\Test_01.Form11.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.exe
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.pdb
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\bin\Debug\Test_01.exe.manifest
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\bin\Debug\Test_01.application
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\bin\Debug\Test_01.exe
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\bin\Debug\Test_01.pdb
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Form10.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Form11.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Form2.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Form3.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Form4.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Form5.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Form6.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Form7.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Form8.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Form9.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.TrustInfo.xml
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.exe.manifest
+C:\Users\Administrator\Desktop\120505 (Ver 2.6)\Test_01\obj\Debug\Test_01.application
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.exe
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.pdb
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\bin\Debug\Test_01.exe.manifest
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\bin\Debug\Test_01.application
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\bin\Debug\Test_01.exe
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\bin\Debug\Test_01.pdb
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Form10.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Form11.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Form2.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Form3.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Form4.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Form5.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Form6.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Form7.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Form8.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Form9.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.TrustInfo.xml
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.exe.manifest
+C:\Users\Administrator\Desktop\120506 (Ver 2.7)\Test_01\obj\Debug\Test_01.application
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.exe
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.pdb
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\bin\Debug\Test_01.exe.manifest
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\bin\Debug\Test_01.application
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\bin\Debug\Test_01.exe
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\bin\Debug\Test_01.pdb
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form10.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form11.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form2.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form3.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form4.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form5.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form6.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form7.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form8.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form9.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.TrustInfo.xml
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.exe.manifest
+C:\Users\Administrator\Desktop\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.application
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.exe
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.pdb
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\bin\Debug\Test_01.exe.manifest
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\bin\Debug\Test_01.application
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\bin\Debug\Test_01.exe
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\bin\Debug\Test_01.pdb
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.csprojResolveAssemblyReference.cache
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form1.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form10.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form11.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form2.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form3.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form4.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form5.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form6.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form7.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form8.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Form9.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.Properties.Resources.resources
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.csproj.GenerateResource.Cache
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.TrustInfo.xml
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.exe.manifest
+C:\Users\lab407\Desktop\arduino參考\ver 2.8\120507 (Ver 2.8)\Test_01\obj\Debug\Test_01.application

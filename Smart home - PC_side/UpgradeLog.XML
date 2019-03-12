@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Test_01">
+</Property><Property Name="方案檔" Value="D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Zigbee\Release\API\110219 (Ver 2.1)\Test_01.suo">
+</Property><Property Name="Date" Value="2011年3月17日">
+</Property><Property Name="Time" Value="下午 20:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Test_01.sln" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Test_01.suo" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01.suo">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Test_01.csproj" Description="專案檔已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Test_01.csproj">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Test_01.csproj.user" Description="專案使用者檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Test_01.csproj.user">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form1.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form1.Designer.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form2.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form2.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form2.Designer.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form3.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form3.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form3.Designer.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form4.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form4.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form4.Designer.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form5.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form5.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form5.Designer.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form5.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form6.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form6.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form6.Designer.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form6.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Program.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Program.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Properties\Settings.settings" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form1.resx" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form2.resx" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form3.resx" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form3.resx">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form4.resx" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form4.resx">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form5.resx" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form5.resx">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Form6.resx" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Form6.resx">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Properties\Resources.resx" Description="檔案已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\Test_01\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Test_01.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="Test_01" Source="Test_01\Test_01.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ZigBee ConfigAPP Setup.vdproj" Source="ZigBee ConfigAPP Setup\ZigBee ConfigAPP Setup.vdproj" Description="專案檔已成功備份為 D:\Zigbee\Release\API\110219 (Ver 2.1)\Backup\ZigBee ConfigAPP Setup\ZigBee ConfigAPP Setup.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="Test_01.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="Test_01.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test_01" Source="Test_01\Test_01.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>
